@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Harmonicon
+Bundle-SymbolicName: Harmonicon
+Bundle-Version: 1.0.0
+Bundle-Localization: plugin
+Export-Package: com.ibm.realtime.synth.engine,
+ com.ibm.realtime.synth.gui,
+ com.ibm.realtime.synth.modules,
+ com.ibm.realtime.synth.simple,
+ com.ibm.realtime.synth.soundfont2,
+ com.ibm.realtime.synth.test,
+ com.ibm.realtime.synth.utils
+Require-Bundle: org.eclipse.swt
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
